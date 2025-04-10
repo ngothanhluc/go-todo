@@ -1,0 +1,79 @@
+{
+  "hash": "2af75e89",
+  "configHash": "f6e3f22e",
+  "lockfileHash": "1e426e75",
+  "browserHash": "53c83457",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/.pnpm/react@19.1.0/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "6824e547",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../node_modules/.pnpm/react-dom@19.1.0_react@19.1.0/node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "07a0851b",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/.pnpm/react@19.1.0/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "02b8b8d7",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../node_modules/.pnpm/react@19.1.0/node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "9800dc68",
+      "needsInterop": true
+    },
+    "@tanstack/react-query": {
+      "src": "../../node_modules/.pnpm/@tanstack+react-query@5.72.2_react@19.1.0/node_modules/@tanstack/react-query/build/modern/index.js",
+      "file": "@tanstack_react-query.js",
+      "fileHash": "61e54aca",
+      "needsInterop": false
+    },
+    "@tanstack/react-query-devtools": {
+      "src": "../../node_modules/.pnpm/@tanstack+react-query-devtools@5.72.2_@tanstack+react-query@5.72.2_react@19.1.0__react@19.1.0/node_modules/@tanstack/react-query-devtools/build/modern/index.js",
+      "file": "@tanstack_react-query-devtools.js",
+      "fileHash": "2bcc5c94",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/.pnpm/react-dom@19.1.0_react@19.1.0/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "81a3c207",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "LDUQ2GE4-2OZJ65O6": {
+      "file": "LDUQ2GE4-2OZJ65O6.js"
+    },
+    "chunk-VOG4KDDZ": {
+      "file": "chunk-VOG4KDDZ.js"
+    },
+    "chunk-7PJF2OCD": {
+      "file": "chunk-7PJF2OCD.js"
+    },
+    "chunk-GMNOE2DD": {
+      "file": "chunk-GMNOE2DD.js"
+    },
+    "chunk-LF5GBLK2": {
+      "file": "chunk-LF5GBLK2.js"
+    },
+    "SUXNJKMM-LSPSCJVS": {
+      "file": "SUXNJKMM-LSPSCJVS.js"
+    },
+    "chunk-D3DZW5ZL": {
+      "file": "chunk-D3DZW5ZL.js"
+    },
+    "chunk-XNG543G4": {
+      "file": "chunk-XNG543G4.js"
+    },
+    "chunk-QWN5BXRD": {
+      "file": "chunk-QWN5BXRD.js"
+    }
+  }
+}
